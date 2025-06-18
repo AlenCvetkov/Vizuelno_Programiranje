@@ -3,9 +3,10 @@
 [English Version](#english-version)  
 [Македонска Верзија](#македонска-верзија)
 
----
 
-## 🇬🇧 English Version
+
+
+## English Version
 
 ### Hangman – Country Edition  
 This project is a simple **Hangman game**.
@@ -63,7 +64,7 @@ The application chooses a **random European country** as the target word. The pl
 ---
 
 ### Автор  
-Развил: **Ален Цветков**  
+Направил: **Ален Цветков**  
 Репозиториум: [Vizuelno_Programiranje](https://github.com/AlenCvetkov/Vizuelno_Programiranje)
 
 ---
@@ -75,7 +76,7 @@ The application chooses a **random European country** as the target word. The pl
 
 ### Функционалности
 - Случаен избор на држава.
-- Чекорно цртање на бесилка.
+- Чекор по чекор цртање на бесилка.
 - Копчиња со букви A–Z.
 - Известување дали сте победиле или изгубиле.
 - Прикажување на откриени букви во реално време.
